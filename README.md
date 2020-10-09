@@ -10,6 +10,7 @@
 # Features
 - Vue + Vue Router + Vuex + Axios
 - Bootstrap 4
+- Firebase
 
 
 ## Build Setup
