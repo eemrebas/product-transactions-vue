@@ -1,6 +1,6 @@
 # product-transactions
 
-> A Vue.js project
+![productList](https://user-images.githubusercontent.com/26345498/95556932-bceddf80-0a1c-11eb-96a3-8cd8ec5acfc2.png)
 
 ## Build Setup
 
